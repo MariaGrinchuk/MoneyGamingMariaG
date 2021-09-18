@@ -30,7 +30,6 @@ public class Test1 {
         surnameBox.sendKeys("Smith");
         Thread.sleep(2000);
 
-
     }
 
     @AfterMethod
